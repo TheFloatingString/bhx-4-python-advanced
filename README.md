@@ -1,11 +1,11 @@
-# BrebeufHx 4 - Python Workshop (Web Development Version) (Part 2)
+# BrebeufHx 4 - Python Workshop (Web Development Version) (Part 2/2)
 
 Hello there!
 
 This is the web development version of the workshop.
 
 If you are a beginner to Python, it would be best to first master the [simple version
-of this workshop](https://github.com/TheFloatingString/bhx-4-python-simple) before
+of this workshop (part 1)](https://github.com/TheFloatingString/bhx-4-python-simple) before
 starting this web development version.
 
 The goal is to integrate an HTML frontend that can call Python functions through a 
