@@ -67,7 +67,19 @@ A web browswer should appear, containing the page corresponding to the `/` route
 
 Execute `python main.py` (Windows) or `python3 main.py` (MacOS/Linux)
 
-Open a browser at the address `localhost:5000`
+Open a browser (such as Google Chrome) at the address `http://localhost:5000`.
+
+## Using Various Pizza Parameters
+
+Enter the URL with the following parameters:
+
+```http://localhost:5000/identify/{cheese strips}/{pepperoni slices}/{pineapple chunks}```
+
+Where cheese strips, pepperoni slices and pineapple chunks are all integers.
+
+When you submit this URL, it invokes the `identify()` function which returns a Python dictionary 
+with two keys: the estimated time to eat a pizza with those parameters, and 
+the type of pizza that was created.
 
 ---
 Workshop date: January 9, 2021
