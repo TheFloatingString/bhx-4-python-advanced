@@ -1,4 +1,4 @@
-# bhx-4-python-web-dev
+# BrebeufHx 4 - Python Workshop (Web Development Version) (Part 2)
 
 Hello there!
 
